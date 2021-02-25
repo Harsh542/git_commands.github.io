@@ -1,3 +1,4 @@
 1.git --version                                                        -> gives the version of git
 2.git status                                                           -> shows if you have any git repository or not
 3.git init                                                             -> initiates a empty repository into a git repository
+4.git add .
