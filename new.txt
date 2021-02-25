@@ -1,2 +1,2 @@
 hello,this is harsh
-and i am learning linux commands
+and i am learning linux command and how are you doing.
