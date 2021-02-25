@@ -24,6 +24,12 @@
 24.git checkout .                                                      -> to again go to old commit if the file in working dir
 25.git checkout myfile                                                 -> to go to old commit(particular file)
 26.git clone sshkey                                                    -> to clone a repository from a github or other 
+27.git branch                                                          -> show the available branches in the local system
+28.git branch new                                                      -> creates a new branch
+29.git checkout branchname                                             -> to switch from branch to other 
+30.git merge branchname                                                -> to merge one branch into other
+31.git branch -d branchname                                            -> to delete a branch in local system
+32.git push origin --delete branchname                                 -> to delete a branch in remote system
   
 
         
